@@ -9,7 +9,7 @@ Tailwind CSS
 Lucide React
 Day.js
 
-### components: Contém os componentes React utilizados na aplicação
+### components:
 
 attendee-list: Componente que exibe a lista de participantes.
 header: Componente de cabeçalho da aplicação.
