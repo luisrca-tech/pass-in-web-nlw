@@ -26,8 +26,11 @@ assets: Contém os recursos estáticos utilizados na aplicação, como imagens.
 ### Como Executar
 
 Clone este repositório.
+
 Instale as dependências utilizando o comando npm install.
+
 Execute a aplicação utilizando o comando npm run dev.
+
 Acesse a aplicação através do navegador web no endereço (http://localhost:3000).
 
 ### Como Contribuir
