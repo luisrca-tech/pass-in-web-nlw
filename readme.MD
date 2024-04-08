@@ -8,8 +8,6 @@ React
 Tailwind CSS
 Lucide React
 Day.js
-Estrutura do Projeto
-O projeto está estruturado da seguinte forma:
 
 ### components: Contém os componentes React utilizados na aplicação
 
