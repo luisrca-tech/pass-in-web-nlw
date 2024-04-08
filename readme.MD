@@ -12,10 +12,15 @@ Day.js
 ### components:
 
 attendee-list: Componente que exibe a lista de participantes.
+
 header: Componente de cabeçalho da aplicação.
+
 icon-button: Componente de botão com ícone.
+
 nav-link: Componente de link de navegação.
+
 table: Componentes relacionados à tabela utilizada na exibição da lista de participantes.
+
 assets: Contém os recursos estáticos utilizados na aplicação, como imagens.
 
 ### Como Executar
